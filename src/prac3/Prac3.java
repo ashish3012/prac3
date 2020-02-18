@@ -18,6 +18,7 @@ public class Prac3 {
         // TODO code application logic here
         
         System.out.println("getting strted");
+         System.out.println("getting stracsfafted");
     }
     
 }

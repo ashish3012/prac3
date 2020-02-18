@@ -19,6 +19,7 @@ public class Prac3 {
         
         System.out.println("getting strted");
          System.out.println("getting stracsfafted");
+         System.out.println("push karo");
     }
     
 }
